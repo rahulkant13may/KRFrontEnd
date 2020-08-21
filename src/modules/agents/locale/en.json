@@ -1,0 +1,8 @@
+{
+  "agents": "agents",
+  "agents.search.agents": "search agents",
+  "agents.add.agent": "add agent",
+  "agents.header.name": "name",
+  "agents.header.role": "role",
+  "agents.header.last.seen": "last seen"
+}

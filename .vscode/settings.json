@@ -1,0 +1,13 @@
+{
+  "files.trimTrailingWhitespace": true,
+  "eslint.alwaysShowStatus": true,
+  "html.format.endWithNewline": true,
+  "trailing-spaces.trimOnSave": true,
+  "editor.detectIndentation": false,
+  "editor.tabSize": 2,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.formatOnSave": true,
+  "files.insertFinalNewline": true
+}
